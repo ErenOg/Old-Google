@@ -1,0 +1,52 @@
+.center {
+    text-align: -webkit-center;
+}
+
+.grey-box {
+    background-color: rgb(241, 241, 241);
+    width: 1000px;
+}
+
+.size-elements {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.greenbgc1 {
+    background-color: rgb(102, 224, 218);
+}
+
+.greenbgc2 {
+    background-color: rgb(78, 198, 192);
+}
+
+.greenbgc3 {
+    background-color: rgb(48, 164, 159)
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.size30 {
+    width: 33.1%;
+    margin-top: 4px;
+    height: 85px;
+    padding-top: 10px;
+}
+
+.margin-right {
+    margin-right: 4.5px;
+}
+
+.clear {
+    clear: both;
+}
+
+.margin {
+    margin-top: 20px;
+}
